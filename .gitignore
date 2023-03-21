@@ -8,6 +8,7 @@ __pycache__/
 
 # Data Files
 data/
+*.csv
 
 # zip files
 *.zip
